@@ -1,0 +1,28 @@
+{
+  "name": "yoobeestudentsstory",
+  "version": "0.0.1",
+  "description": "Telling a story about the students of Yoobee School of Design at the Wellington Campus",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitramanga/YoobeeStudentsStory.git"
+  },
+  "keywords": [
+    "story",
+    "yoobeeschoolofdesign"
+  ],
+  "author": "Tashina Jacobs, Sumitra Manga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitramanga/YoobeeStudentsStory/issues"
+  },
+  "homepage": "https://github.com/sumitramanga/YoobeeStudentsStory#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "i": "^0.3.6",
+    "jquery": "^3.3.1"
+  }
+}
