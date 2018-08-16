@@ -12,8 +12,8 @@
     "age": "22-25",
     "gender": "female",
     "course": "Web and UX Design",
-    "startDateOfCourse": "",
-    "job": "no",
+    "startDateOfCourse": "NA",
+    "job": "no"
   },
   {
     "student": "yes",
@@ -21,7 +21,7 @@
     "gender": "female",
     "course": "Web and UX Design",
     "startDateOfCourse": "Start of 2018",
-    "job": "no",
+    "job": "no"
   },
   {
     "student": "yes",
@@ -62,10 +62,10 @@
     "course": "Web and UX Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Retail",
-    "How would you rate your work and study balance": 3,
-    "How many hours do you work p/week?": 15,
-    "When do you work?": "Both"
+    "industry": "Retail",
+    "workStudyBalance": 3,
+    "hoursWorked": 15,
+    "whenWork": "Both"
   },
   {
     "student": "yes",
@@ -82,10 +82,10 @@
     "course": "Web and UX Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Tech",
-    "How would you rate your work and study balance": 5,
-    "How many hours do you work p/week?": 2,
-    "When do you work?": "Night"
+    "industry": "Tech",
+    "workStudyBalance": 5,
+    "hoursWorked": 2,
+    "whenWork": "Night"
   },
   {
     "student": "yes",
@@ -94,10 +94,10 @@
     "course": "Web and Graphic Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Tech",
-    "How would you rate your work and study balance": 5,
-    "How many hours do you work p/week?": 9,
-    "When do you work?": "Night"
+    "industry": "Tech",
+    "workStudyBalance": 5,
+    "hoursWorked": 9,
+    "whenWork": "Night"
   },
   {
     "student": "yes",
@@ -114,10 +114,10 @@
     "course": "Creative Digital Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Food service",
-    "How would you rate your work and study balance": 2,
-    "How many hours do you work p/week?": 20,
-    "When do you work?": "Both"
+    "industry": "Food service",
+    "workStudyBalance": 2,
+    "hoursWorked": 20,
+    "whenWork": "Both"
   },
   {
     "student": "yes",
@@ -126,10 +126,10 @@
     "course": "Game Art and Developement",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Retail",
-    "How would you rate your work and study balance": 5,
-    "How many hours do you work p/week?": 8,
-    "When do you work?": "Both"
+    "industry": "Retail",
+    "workStudyBalance": 5,
+    "hoursWorked": 8,
+    "whenWork": "Both"
   },
   {
     "student": "yes",
@@ -138,10 +138,10 @@
     "course": "Web and UX",
     "startDateOfCourse": "Mid 2017",
     "job": "yes",
-    "What industry do you work in?": "Freelance Design",
-    "How would you rate your work and study balance": 3,
-    "How many hours do you work p/week?": 30,
-    "When do you work?": "Both"
+    "industry": "Freelance Design",
+    "workStudyBalance": 3,
+    "hoursWorked": 30,
+    "whenWork": "Both"
   },
   {
     "student": "yes",
@@ -157,7 +157,7 @@
     "gender": "female",
     "course": "Animation and Film Production",
     "startDateOfCourse": "Start of 2018",
-    "job": "no",
+    "job": "no"
   },
   {
     "student": "yes",
@@ -165,7 +165,7 @@
     "gender": "female",
     "course": "Animation and Film Production",
     "startDateOfCourse": "Mid 2017",
-    "job": "no",
+    "job": "no"
   },
   {
     "student": "yes",
@@ -174,10 +174,10 @@
     "course": "Creative Digital Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Hospitality",
-    "How would you rate your work and study balance": 4,
-    "How many hours do you work p/week?": "4-8",
-    "When do you work?": "Night"
+    "industry": "Hospitality",
+    "workStudyBalance": 4,
+    "hoursWorked": "4-8",
+    "whenWork": "Night"
   },
   {
     "student": "yes",
@@ -186,10 +186,10 @@
     "course": "icreate",
     "startDateOfCourse": "Mid 2018",
     "job": "yes",
-    "What industry do you work in?": "Hospitality",
-    "How would you rate your work and study balance": 2,
-    "How many hours do you work p/week?": 20,
-    "When do you work?": "Night"
+    "industry": "Hospitality",
+    "workStudyBalance": 2,
+    "hoursWorked": 20,
+    "whenWork": "Night"
   },
   {
     "student": "yes",
@@ -198,10 +198,10 @@
     "course": "Web and Graphic Design",
     "startDateOfCourse": "Start of 2018",
     "job": "yes",
-    "What industry do you work in?": "Communications and Design",
-    "How would you rate your work and study balance": 2,
-    "How many hours do you work p/week?": 35,
-    "When do you work?": "Both"
+    "industry": "Communications and Design",
+    "workStudyBalance": 2,
+    "hoursWorked": 35,
+    "whenWork": "Both"
   },
   {
     "student": "yes",
