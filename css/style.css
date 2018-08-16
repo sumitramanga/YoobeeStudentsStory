@@ -22,7 +22,7 @@
   background-color: black;
   height: 100%;
   opacity: 0.5;
-  width: 100vw; }
+  width: 100%; }
 
 .h1 {
   color: #e77f67;
@@ -44,5 +44,19 @@
   cursor: pointer;
   font-size: 5em;
   text-align: center; }
+
+.visSection {
+  height: 1132px;
+  border: 1px solid black;
+  background-color: #f3a683; }
+
+.visTitle {
+  color: white;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  padding: 1em 0;
+  text-align: center;
+  text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */
