@@ -1,0 +1,214 @@
+[
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "male",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "female",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "NA",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "male",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "What is your age?": "22-25",
+    "gender": "male",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "female",
+    "course": "Web and Graphic Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "non-binary",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "female",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Retail",
+    "workStudyBalance": 3,
+    "hoursWorked": 15,
+    "whenWork": "Both"
+  },
+  {
+    "student": "yes",
+    "What is your age?": "18-21",
+    "gender": "female",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "26-30",
+    "gender": "female",
+    "course": "Web and UX Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Tech",
+    "workStudyBalance": 5,
+    "hoursWorked": 2,
+    "whenWork": "Night"
+  },
+  {
+    "student": "yes",
+    "age": "26-30",
+    "gender": "male",
+    "course": "Web and Graphic Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Tech",
+    "workStudyBalance": 5,
+    "hoursWorked": 9,
+    "whenWork": "Night"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Screen Production",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "female",
+    "course": "Creative Digital Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Food service",
+    "workStudyBalance": 2,
+    "hoursWorked": 20,
+    "whenWork": "Both"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "male",
+    "course": "Game Art and Developement",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Retail",
+    "workStudyBalance": 5,
+    "hoursWorked": 8,
+    "whenWork": "Both"
+  },
+  {
+    "student": "yes",
+    "age": "31-35",
+    "gender": "female",
+    "course": "Web and UX",
+    "startDateOfCourse": "Mid 2017",
+    "job": "yes",
+    "industry": "Freelance Design",
+    "workStudyBalance": 3,
+    "hoursWorked": 30,
+    "whenWork": "Both"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Web and Graphic Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "What is your age?": "22-25",
+    "gender": "female",
+    "course": "Animation and Film Production",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Animation and Film Production",
+    "startDateOfCourse": "Mid 2017",
+    "job": "no"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Creative Digital Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Hospitality",
+    "workStudyBalance": 4,
+    "hoursWorked": "4-8",
+    "whenWork": "Night"
+  },
+  {
+    "student": "yes",
+    "age": "22-25",
+    "gender": "female",
+    "course": "icreate",
+    "startDateOfCourse": "Mid 2018",
+    "job": "yes",
+    "industry": "Hospitality",
+    "workStudyBalance": 2,
+    "hoursWorked": 20,
+    "whenWork": "Night"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Web and Graphic Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "yes",
+    "industry": "Communications and Design",
+    "workStudyBalance": 2,
+    "hoursWorked": 35,
+    "whenWork": "Both"
+  },
+  {
+    "student": "yes",
+    "age": "18-21",
+    "gender": "female",
+    "course": "Web and Graphic Design",
+    "startDateOfCourse": "Start of 2018",
+    "job": "no"
+  }
+]
