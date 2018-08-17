@@ -14,13 +14,10 @@
       success: function(data) {
         console.log(data);
 
-        // Grabbing the chart container from the HTML
-        var getChart = document.getElementById('firstChart');
-
         // Load the 'corechart' package.
         google.charts.load('current', {packages: ['corechart']});
+        google.charts.setOnLoadCallback(jobChart);
 
-        jobChart();
       },
       error: function(error) {
         console.log(error);
@@ -31,7 +28,27 @@
 
 
 function jobChart() {
-  console.log('Hello World');
+
+  var getChart = document.getElementById('firstChart');
+
+  console.log('packages loaded');
+
+  var data = new google.visualization.DataTable();
+  data.addColumn('string', 'job');
+  data.addColumn('string', 'gender');
+
+  for(var i = 0; i < data.length; i++){
+      data.addRow([data[i].job, data[i].gender]);
+    }
+
+  var options = {
+    title: 'Student Count of jobs'
+  };
+
+  var chart = new google.visualization.PieChart(getChart);
+
+  // Method to show/draw the chart on the page
+  chart.draw(data, options);
 }
 
 }());
