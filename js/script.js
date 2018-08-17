@@ -62,4 +62,7 @@
       var chart = new google.visualization.BarChart(document.getElementById('secondChart'));
       chart.draw(data, options);
     }
+
+    // females: employed =   unemployed =  
+    // males:
 }());
