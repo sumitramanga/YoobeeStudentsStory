@@ -10,9 +10,9 @@
 
 
   google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
+  google.charts.setOnLoadCallback(drawPieChart);
 
-  function drawChart() {
+  function drawPieChart() {
 
     var data = google.visualization.arrayToDataTable([
       ['Industry', 'Hours per Day'],
