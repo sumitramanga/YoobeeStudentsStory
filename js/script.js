@@ -6,6 +6,13 @@
         scrollTop: $('#titleOne').offset().top
       }, 1000);
     });
+
+    $('#secondaryIcon').click(function(){
+      console.log('working');
+      $('html, body').animate({
+        scrollTop: $('#titleTwo').offset().top
+      }, 1000);
+    });
   });
 
 
@@ -55,8 +62,4 @@
       var chart = new google.visualization.BarChart(document.getElementById('secondChart'));
       chart.draw(data, options);
     }
-
-
-
-
 }());
