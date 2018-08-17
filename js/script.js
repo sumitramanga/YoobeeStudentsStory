@@ -6,49 +6,30 @@
         scrollTop: $('#titleOne').offset().top
       }, 1000);
     });
-
-    $.ajax({
-      url: 'data/data.json',
-      dataType: 'json',
-      type: 'GET',
-      success: function(data) {
-        console.log(data);
-
-        // Load the 'corechart' package.
-        google.charts.load('current', {packages: ['corechart']});
-        google.charts.setOnLoadCallback(jobChart);
-
-      },
-      error: function(error) {
-        console.log(error);
-        console.log('Something has gone wrong with the connection');
-      }
-    }); // ajax Ends
   });
 
 
-function jobChart() {
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
 
-  var getChart = document.getElementById('firstChart');
+  function drawChart() {
 
-  console.log('packages loaded');
+    var data = google.visualization.arrayToDataTable([
+      ['Industry', 'Hours per Day'],
+      ['Hospitality',     3],
+      ['Freelance design',      1],
+      ['Retail',  2],
+      ['Communications and design', 1],
+      ['Tech',    2]
+    ]);
 
-  var data = new google.visualization.DataTable();
-  data.addColumn('string', 'job');
-  data.addColumn('string', 'gender');
+    var options = {
+      title: 'My Daily Activities'
+    };
 
-  for(var i = 0; i < data.length; i++){
-      data.addRow([data[i].job, data[i].gender]);
-    }
+    var chart = new google.visualization.PieChart(document.getElementById('firstChart'));
 
-  var options = {
-    title: 'Student Count of jobs'
-  };
-
-  var chart = new google.visualization.PieChart(getChart);
-
-  // Method to show/draw the chart on the page
-  chart.draw(data, options);
-}
+    chart.draw(data, options);
+  }
 
 }());
